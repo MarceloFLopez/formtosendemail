@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="icon" href="./image/github-logo.png" type="image/png">
+    <title>Workshop</title>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+    <script type="text/javascript">
+        emailjs.init('jKWlpL9eK8XXpc0hE'); // Substitua 'SEU_USER_ID' pelo seu User ID do EmailJS
+    </script>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1 class="title">PARTICIPE AQUI DO WORKSHOP QUE VAI MUDAR SEU NEGOCIO!</h1>
+        </header>
+
+        <section>
+            <div class="formContainer">
+                <h2 class="mb">GARANTA JÁ SEU LUGAR NO WORKSHOP DO MAIOR ESPECIALISTA EM MARKETING DA ATUALIDADE</h2>
+                <p class="mb">Neste evento, você vai aprender todos os segredos que vão fazer de você um empreendedor de
+                    sucesso
+                    sem contar com a sorte.</p>
+                <form id="form">
+                    <div class="field">
+                        <input type="text" name="from_name" id="from_name" placeholder="Nome" required>
+                    </div>
+                    <div class="field">
+                        <input type="email" name="reply_to" id="reply_to" placeholder="Email" required>
+                    </div>
+                    <div class="field">
+                        <select name="place" id="place" required>
+                            <option value="Rio de Janeiro">Rio de Janeiro</option>
+                            <option value="São Paulo">São Paulo</option>
+                            <option value="Minas Gerais">Minas Gerais</option>
+                            <option value="Distrito Federal">Distrito Federal</option>
+                        </select>
+                    </div>
+                    <div class="field">
+                        <textarea name="message" id="message" placeholder="Mensagem" maxlength="255" rows="4" required></textarea>
+                    </div>
+                    
+                    <input type="submit" id="button" value="INSCREVA-SE">
+                </form>
+            </div>
+        </section>
+
+        <footer>
+            <img src="./image/people-removebg-preview.png" alt="" class="picture">
+            <div class="description">
+                <h3>Palestra</h3>
+                <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+                    culpa qui officia deserunt mollit anim id est laborum."</p>
+                <p>"Duis aute irure dolor in reprehenderit in voluptate velit esse
+                    culpa qui officia deserunt mollit anim id est laborum."
+                </p>
+            </div>
+        </footer>
+    </div>
+    <script src="./js/script.js"></script>
+</body>
+
+</html>
