@@ -9,15 +9,6 @@
 
 - ⚡ Fato engraçado **Gosto de programar, assistir filmes de ficção cientifica, jogar MTG.**
 
-## Linguagem de programa Javascprit
-
-Esse programa foi desenvolvido usandoa linguagem de programação `Javascript` utilizando o IDE de desenvolvimento `VS-CODE`,
-que pode ser baixo na página [Site de referência para baixar o kit de desenvolvimento](https://code.visualstudio.com/download).
-
-## Servidor de desenvolvimento
-
-Dentro do `VS-CODE` procure pela extensão `Live Server Preview` e execute `ctrl+shift+p` e selecione `Oper whith: live server preview` para um servidor web. Navegue até `http://127.0.0.1:5500/index.html`. O aplicativo será recarregado automaticamente se você alterar algum dos arquivos de origem.
-
  # Formullari Html para envio de email.
 
 ## Descrição
@@ -73,7 +64,6 @@ Este projeto é um formulário de inscrição para um workshop de marketing. Ele
 |   |-- script.js
 |-- index.html
 ````
-
 
 # EmailJS
 
