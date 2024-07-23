@@ -126,8 +126,9 @@ EmailJS é um serviço que permite enviar emails diretamente do JavaScript sem n
 
 ## Links Úteis
 
-- [Documentação Oficial](https://www.emailjs.com/docs/)
-- [Guia de Introdução](https://www.emailjs.com/docs/tutorial/overview/)
--  [Visão geral do Javascript e referência de comandos](https://www.w3schools.com/js/).
+- [Documentação Oficia EmailJS](https://www.emailjs.com/docs/)
+- [Documentação Html](https://www.w3schools.com/html/).
+- [Documentação Css](https://www.w3schools.com/css/).
+- [Visão geral do Javascript e referência de comandos](https://www.w3schools.com/js/).
 
 
