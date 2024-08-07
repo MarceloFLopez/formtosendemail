@@ -9,7 +9,7 @@
 
 - ⚡ Fato engraçado **Gosto de programar, assistir filmes de ficção cientifica, jogar MTG.**
 
- # Formullari Html para envio de email.
+ # Formulário em Html para envio de email.
 
 ## Descrição
 
